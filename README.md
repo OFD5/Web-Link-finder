@@ -1,5 +1,3 @@
-# Web-Link-finder
-weblink finder
 # Web-link finder
 Web-link finder is simple recon web link finder. It scrapes all the link on the website.  Please use the tool for security reaserch only.
 #
